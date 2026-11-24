@@ -1,3 +1,7 @@
+## Screenshots
+
+![SS](./static/pic-selected-261124-1551-11.png)
+![SS2](./static/pic-selected-261124-1723-30.png)
 ## st - simple terminal ![st](https://img.shields.io/static/v1?label=st&message=0.9.2&color=blue&style=flat-square)
 
 `st` is a simple terminal emulator for X which [sucks-less](https://git.suckless.org/st/). Blended according to my daily workflows to ease my operations.. Enjoy.. 
@@ -141,8 +145,4 @@ static char *font2[] = {
 - Picom for transparency/blur of X11 
 - wal / pywal is dynamic theme/color change on the fly 
 
-## Screenshots
-
-![SS](./static/pic-selected-261124-1551-11.png)
-![SS2](./static/pic-selected-261124-1723-30.png)
 
